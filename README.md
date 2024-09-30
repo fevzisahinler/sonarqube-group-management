@@ -1,0 +1,1 @@
+# sonarqube-group-management
